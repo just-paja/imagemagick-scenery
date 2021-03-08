@@ -1,6 +1,6 @@
 {
   "name": "imagemagick-scenery",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Stream your image transformations using scenes defined via imagemagick parameters",
   "main": "lib/index.js",
   "scripts": {
