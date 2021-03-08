@@ -19,6 +19,9 @@
   ],
   "author": "Pavel Žák <pavel@zak.global>",
   "license": "GPL-3.0-or-later",
+  "files": [
+    "index.js"
+  ],
   "bugs": {
     "url": "https://github.com/just-paja/imagemagick-scenery/issues"
   },
