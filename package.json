@@ -31,7 +31,8 @@
   "homepage": "https://github.com/just-paja/imagemagick-scenery#readme",
   "devDependencies": {
     "jsdoc": "^3.6.6",
-    "lerna-ministack": "^0.5.4"
+    "lerna-ministack": "^0.5.4",
+    "node-fetch": "^2.6.1"
   },
   "dependencies": {
     "imagemagick-stream": "^4.1.1"
