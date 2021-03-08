@@ -1,0 +1,39 @@
+{
+  "name": "imagemagick-scenery",
+  "version": "0.1.0",
+  "description": "Stream your image transformations using scenes defined via imagemagick parameters",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-paja/imagemagick-scenery.git"
+  },
+  "keywords": [
+    "imagemagick",
+    "stream",
+    "wrapper",
+    "scenes",
+    "bootstrap"
+  ],
+  "author": "Pavel Žák <pavel@zak.global>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/just-paja/imagemagick-scenery/issues"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ],
+    "parser": "babel-eslint"
+  },
+  "homepage": "https://github.com/just-paja/imagemagick-scenery#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.6",
+    "lerna-ministack": "^0.5.4"
+  },
+  "dependencies": {
+    "imagemagick-stream": "^4.1.1"
+  }
+}
